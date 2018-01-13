@@ -4,7 +4,7 @@ A repository for collecting useful Maven Project Object Models. Feel free to use
 
 ## Java Exercise Tester
 
-A Maven Project Object Model for quick testing Java exercises.
+A Maven Project Object Model for quick testing Java exercises with JUnit 5.
 
 ### Usage:
 
